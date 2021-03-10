@@ -1,1 +1,31 @@
 # tc-codesystem
+Bu Script TeamCoder Tarafından Yapılmıştır 
+Discord:https://discord.gg/x5uUqFG
+
+
+
+
+
+
+tc-codesystem
+
+Açıklama:
+●Script Teamcoder tarafından yapılmıştır.
+●İstediğiniz her an /tc yazarak menüye ulaşabilir.
+●/tc yazarak erişebilirsiniz resmon değerleri max 0.00.
+●Düşük ms değerleri.
+
+
+Kurulum:
+● Github üzerinden dosyayı indirin.
+● Dosyanın ismini değiştirmeyin
+● Dosyayı ve gereksinimi "Resources" klasörünün içine atın.
+● Server.cfg dosyasında uygun bir yere önce gereksinime daha sonra scripte ensure vererek kurulumu bitirin.
+
+
+
+
+Geliştirici:
+Oblomoff
+! MDT10100 𐱅𐰇𐰼𐰰 🛠
+Chrîsqq
