@@ -1,6 +1,6 @@
 ```tc-codesystem, Bu Script TeamCoder Tarafından Yapılmıştır```
-# TeamCoder Discord:https://discord.gg/x5uUqFG
-# MDT Yazılım Hizmetleri. Discord: https://discord.gg/TcrzQS7
+# TeamCoder, Discord:https://discord.gg/x5uUqFG
+# MDT Yazılım Hizmetleri, Discord: https://discord.gg/TcrzQS7
 
 
 ![Team Code](https://cdn.discordapp.com/attachments/818940399682977792/819280388441505833/unknown_1.png)
