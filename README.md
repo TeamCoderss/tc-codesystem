@@ -1,6 +1,5 @@
-# tc-codesystem
-Bu Script TeamCoder Tarafından Yapılmıştır 
-Discord:https://discord.gg/x5uUqFG
+```tc-codesystem, Bu Script TeamCoder Tarafından Yapılmıştır```
+# TeamCoder Discord:https://discord.gg/x5uUqFG
 # MDT Yazılım Hizmetleri. Discord: https://discord.gg/TcrzQS7
 
 
