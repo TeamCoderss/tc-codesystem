@@ -6,6 +6,8 @@ Discord:https://discord.gg/x5uUqFG
 ![Team Code](https://cdn.discordapp.com/attachments/818940399682977792/819280388441505833/unknown_1.png)
 
 
+[SS](https://media.discordapp.net/attachments/818940399682977792/819282194723897374/unknown.png?width=832&height=468)
+
 tc-codesystem
 
 Açıklama:
