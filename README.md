@@ -15,6 +15,7 @@ Açıklama:
 ●/tc yazarak erişebilirsiniz resmon değerleri max 0.00.
 ●Düşük ms değerleri.
 
+![Resmon Deyeri](https://cdn.discordapp.com/attachments/818940399682977792/819282661423972362/unknown.png)
 
 Kurulum:
 ● Github üzerinden dosyayı indirin.
