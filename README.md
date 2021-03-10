@@ -3,8 +3,7 @@ Bu Script TeamCoder Tarafından Yapılmıştır
 Discord:https://discord.gg/x5uUqFG
 
 
-
-
+![Team Code](https://cdn.discordapp.com/attachments/818940399682977792/819280388441505833/unknown_1.png)
 
 
 tc-codesystem
