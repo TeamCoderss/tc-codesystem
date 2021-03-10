@@ -26,6 +26,4 @@ Kurulum:
 
 
 Geliştirici:
-Oblomoff
-! MDT10100 𐱅𐰇𐰼𐰰 🛠
-Chrîsqq
+Oblomoff \n! MDT10100 𐱅𐰇𐰼𐰰 🛠 \nChrîsqq
