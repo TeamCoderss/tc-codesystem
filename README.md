@@ -10,18 +10,18 @@ Discord:https://discord.gg/x5uUqFG
 tc-codesystem
 
 Açıklama:
-●Script Teamcoder tarafından yapılmıştır.
-●İstediğiniz her an /tc yazarak menüye ulaşabilir.
-●/tc yazarak erişebilirsiniz resmon değerleri max 0.00.
-●Düşük ms değerleri.
+- Script Teamcoder tarafından yapılmıştır.
+- İstediğiniz her an /tc yazarak menüye ulaşabilir.
+- /tc yazarak erişebilirsiniz resmon değerleri max 0.00.
+- Düşük ms değerleri.
 
 ![Resmon Deyeri](https://cdn.discordapp.com/attachments/818940399682977792/819282661423972362/unknown.png)
 
 Kurulum:
-● Github üzerinden dosyayı indirin.
-● Dosyanın ismini değiştirmeyin
-● Dosyayı ve gereksinimi "Resources" klasörünün içine atın.
-● Server.cfg dosyasında uygun bir yere önce gereksinime daha sonra scripte ensure vererek kurulumu bitirin.
+- Github üzerinden dosyayı indirin.
+- Dosyanın ismini değiştirmeyin
+- Dosyayı ve gereksinimi "Resources" klasörünün içine atın.
+- Server.cfg dosyasında uygun bir yere önce gereksinime daha sonra scripte ensure vererek kurulumu bitirin.
 
 
 
