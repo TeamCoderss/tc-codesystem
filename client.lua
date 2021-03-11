@@ -1,11 +1,6 @@
 local display = false
 
 RegisterCommand("TC", function()
-    local playerCoords = GetEntityCoords(PlayerPedId())
-    local x = string.sub(playerCoords.x, 0, 8) 
-    local y = string.sub(playerCoords.y, 0, 8)
-    local z = string.sub(playerCoords.z, 0, 6)
-    tcCoords('tc', 'x = ' .. x .. ', y = ' .. y .. ', z = ' .. z)
     SetDisplay(not display)
 end)
 
